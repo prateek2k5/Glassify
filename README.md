@@ -31,7 +31,9 @@
 
 ## 🔗 Prototype / Preview
 
-- **FlutterFlow Prototype Preview:** [View Prototype](https://app.flutterflow.io/share/recyclingandupscalingofglassbottle-bs4lnf)  
+- **FlutterFlow Prototype Preview:** [Preview Prototype](https://app.flutterflow.io/share/recyclingandupscalingofglassbottle-bs4lnf)
+  
+- **FlutterFlow Prototype:** [Working Prototype](https://glassify-flutterlow-app.flutterflow.app/)
 
 ---
 
